@@ -1,0 +1,12 @@
+INSTRUÇÕES EXTRAS 
+
+
+1 - Exporte a tabela CSV (utilize o phpmyadmin)
+2 - Abra o MySQL Workbench
+3 - Não esqueça de renomear todas as colunas da tabela clientes 
+(CUIDADO COM OS TIPOS PRA NÃO PERDER A TABELA)
+4 - Não esqueça de apagar o primeiro registro
+5 - Defina o idclientes como chave primária
+6 - Responda o formulário -> https://docs.google.com/forms/d/e/1FAIpQLSdZkk77FFV6Xf36sAXcBPBEZzF25ZFWSWxAos-UW_kI4uPbwQ/viewform?usp=dialog
+7 - Crie o restante do banco
+
